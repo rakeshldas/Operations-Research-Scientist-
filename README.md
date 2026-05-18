@@ -2,8 +2,6 @@
 
 ## Project Purpose
 
-This project is designed as an Operations Research Scientist interview showcase for ORMAE-style roles.
-
 It demonstrates how an OR optimization model can be converted from a local Python notebook into a cloud-ready decision-support workflow using Microsoft Azure.
 
 ## Business Problem
